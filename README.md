@@ -4,3 +4,7 @@ learning how to use github. intend to use github co-pilot x and enhance my user 
 
 ## what happens if i make changes here
 
+## third day trying
+
+is this even working
+
